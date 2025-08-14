@@ -1,0 +1,26 @@
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="50" rx="8" fill="#184E3D"/>
+  
+  <!-- Icon -->
+  <g transform="translate(12, 8)">
+    <!-- Deck planks -->
+    <rect x="0" y="20" width="24" height="3" rx="1.5" fill="#F6A800"/>
+    <rect x="0" y="24" width="24" height="3" rx="1.5" fill="#F6A800"/>
+    <rect x="0" y="28" width="24" height="3" rx="1.5" fill="#F6A800"/>
+    
+    <!-- Support posts -->
+    <rect x="2" y="16" width="2" height="18" fill="#0F5A82"/>
+    <rect x="10" y="16" width="2" height="18" fill="#0F5A82"/>
+    <rect x="18" y="16" width="2" height="18" fill="#0F5A82"/>
+    
+    <!-- Railing -->
+    <rect x="0" y="8" width="24" height="2" rx="1" fill="#F8FAFB"/>
+    <rect x="0" y="8" width="2" height="12" fill="#F8FAFB"/>
+    <rect x="22" y="8" width="2" height="12" fill="#F8FAFB"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="45" y="20" font-family="Poppins, sans-serif" font-size="14" font-weight="700" fill="#F8FAFB">DeckPatioMasters</text>
+  <text x="45" y="35" font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#F6A800">Connecting You With Trusted Contractors</text>
+</svg>
